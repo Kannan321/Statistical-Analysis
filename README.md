@@ -1,2 +1,2 @@
 # Statistical-Analysis
-EDA, HYPOTHESIS
+Descriptive Statistics, EDA, HYPOTHESIS
